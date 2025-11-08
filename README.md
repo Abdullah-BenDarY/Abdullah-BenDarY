@@ -112,7 +112,7 @@
 ###
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1ZhG7BzYZAtHQU_rgeun8uK1dylxfcZzi/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1ZhG7BzYZAtHQU_rgeun8uK1dylxfcZzi/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20Cv&logo=linkedin&label=&color=0&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
 </div>
