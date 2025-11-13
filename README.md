@@ -7,8 +7,7 @@
 <h6 align="left">Android developer who loves turning coffee into Kotlin code ☕📱  <br>I build apps using Java - Kotlin, XML - Jetpack Compose, always chasing clean, readable, and scalable code.  <br><br>Currently exploring KMP (Kotlin Multiplatform) and Flutter, on my way to becoming a fully cross-platform mobile dev — maybe even adding a touch of Swift someday.  <br><br>I like keeping things simple, building smooth user experiences, and helping teams turn ideas into working, polished apps.  <br><br>⚡ Fun Facts  <br>- I refactor more than I code (and I’m proud of it).  <br>- I believe good UI is half art, half science.  <br>- My Gradle builds take long enough to make coffee — so I do. ☕</h6>
 
 ###
-
-<h3 align="left">🛠 Language and tools</h3>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="3%">  Language and tools</h3>
 
 ###
 
